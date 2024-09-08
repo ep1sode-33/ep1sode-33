@@ -1,5 +1,5 @@
 # Episode 33's Intro
-An ordinary university student
+An ordinary undergraduate student
 ## Programming Languages I use
 ![python](https://img.shields.io/badge/-python-orange?style=for-the-badge&logo=python&logoColor=white)
 ## Operating System
